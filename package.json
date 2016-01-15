@@ -1,0 +1,12 @@
+{
+  "name": "lj-parser",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "*",
+    "html-pdf": "*",
+    "request": "*",
+    "cheerio": "*",
+    "yamljs": "*"
+  }
+}
